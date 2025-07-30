@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+pytesseract
+opencv-python
+numpy
+beautifulsoup4
+requests
+tweepy
