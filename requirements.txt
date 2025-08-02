@@ -1,0 +1,10 @@
+streamlit
+Pillow
+transformers
+torch
+easyocr
+opencv-python
+numpy
+beautifulsoup4
+requests
+tweepy
